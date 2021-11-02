@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whynotmarc/whynotmarc/main/newBanner.png" alt="Welcome"/>
+  <img src="https://raw.githubusercontent.com/whynotmarc/whynotmarc/main/banner_new.png" alt="Welcome"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm Marc</h1>
